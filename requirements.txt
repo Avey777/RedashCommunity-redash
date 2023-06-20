@@ -1,7 +1,7 @@
 Flask==1.1.1
 Jinja2==2.10.3
 itsdangerous==1.1.0
-click==6.7
+click==8.0
 MarkupSafe==1.1.1
 pyOpenSSL==19.0.0
 httplib2==0.14.0
@@ -38,7 +38,7 @@ rq-scheduler==0.9.1
 jsonschema==3.1.1
 RestrictedPython==5.0
 pysaml2==6.5.2
-pycrypto==2.6.1
+pycrypodome==3.18.0
 python-dotenv==0.19.2
 funcy==1.13
 sentry-sdk>=0.14.3,<0.15.0

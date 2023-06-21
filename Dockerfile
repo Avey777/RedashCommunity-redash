@@ -58,6 +58,7 @@ RUN apt-get update && \
   freetds-dev \
   libsasl2-dev \
   unzip \
+  pkg-config \
   libsasl2-modules-gssapi-mit && \
   apt-get clean && \
   rm -rf /var/lib/apt/lists/*
